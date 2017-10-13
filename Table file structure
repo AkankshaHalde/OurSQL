@@ -1,0 +1,14 @@
+<table>
+	<t>
+
+		<c no = '1'>XYZ-FNAME</c>
+		<c no = '2'>XYZ-LNAME</c>
+
+	</t>
+
+	<t>
+
+		<c no = '1'>ABC-FNAME</c>
+		<c no = '2'>ABC-LNAME</c>
+	</t>
+</table>
