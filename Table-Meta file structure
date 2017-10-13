@@ -1,0 +1,10 @@
+<database>Student</database>
+
+<perms>
+</perms>
+
+<colnum>2</colnum>
+<rownum>2</rownum>
+
+<col no = "1">fname</col>
+<col no = "2">lname</col>
