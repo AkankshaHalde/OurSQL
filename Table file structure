@@ -9,6 +9,6 @@
 	<t>
 
 		<c no = '1'>ABC-FNAME</c>
-		<c no = '2'>~null~</c>
+		<c no = '2'></c>
 	</t>
 </table>
