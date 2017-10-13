@@ -1,12 +1,12 @@
 <database>Student</database>
 
+<name>Student</name>
+
 <perms>
 </perms>
 
 <colnum>2</colnum>
 <rownum>2</rownum>
-
-<table>Student</table>
 
 <col no = '1' type = 'string'>fname</col>
 <col no = '2' type = 'int'>lname</col>
