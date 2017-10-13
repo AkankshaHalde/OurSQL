@@ -1,12 +1,13 @@
 There should be a root user.
 The following provisions should be provided :
-  1) Creation / Deletion of database.
-  2) Listing the list of databases.
-  3) Creation / Deletion of tables in the database.
-    3.1) Declare attributes of int, float, string types.
-  4) Listing the list of tables in the database.
-  5) Insertion / Deletion of tuples in the tables.
-  6) Simple projection of tuples from a table.
+  1) Prompt interface.
+  2) Creation / Deletion of database.
+  3) Listing the list of databases.
+  4) Creation / Deletion of tables in the database.
+    4.1) Declare attributes of int, float, string types.
+  5) Listing the list of tables in the database.
+  6) Insertion / Deletion of tuples in the tables.
+  7) Simple projection of tuples from a table.
   
 Planned Future features : 
 1) Adding / Removing a user.
