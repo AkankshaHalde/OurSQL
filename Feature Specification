@@ -3,7 +3,11 @@ The following provisions should be provided :
   1) Creation / Deletion of database.
   2) Listing the list of databases.
   3) Creation / Deletion of tables in the database.
+    3.1) Declare attributes of int, float, string types.
   4) Listing the list of tables in the database.
   5) Insertion / Deletion of tuples in the tables.
+  6) Simple projection of tuples from a table.
   
-Planned Future features : Adding / Removing a user
+Planned Future features : 
+1) Adding / Removing a user.
+2) Addition of date type.
