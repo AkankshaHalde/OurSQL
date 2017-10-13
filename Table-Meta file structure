@@ -6,5 +6,5 @@
 <colnum>2</colnum>
 <rownum>2</rownum>
 
-<col no = "1" type = 'String'>fname</col>
+<col no = "1" type = 'string'>fname</col>
 <col no = "2" type = 'int'>lname</col>
