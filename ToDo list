@@ -1,1 +1,2 @@
-1) Create FileManager which uses StAX parser to write the file.
+1) Write the logic for FileManager
+2) Write the logic for CreateTable
