@@ -1,2 +1,4 @@
-1) Write the logic for FileManager
-2) Write the logic for CreateTable
+1) Output formatted xml in the file.
+2) Create some dynamism for attribute list tokens.
+3) Create JUnit test cases.
+4) Segregate into packages.
