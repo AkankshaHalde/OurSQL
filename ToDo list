@@ -3,3 +3,4 @@
 3) Create JUnit test cases.
 4) Segregate into packages.
 5) Create ENUM for the public final strings of the FileManager
+6) Add name tag. 
