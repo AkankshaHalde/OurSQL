@@ -1,0 +1,29 @@
+class TableAlreadyExistsException extends RuntimeException
+{
+    @Override
+    public String toString()
+    {
+        return "Table Already Created !";
+    }        
+}
+
+class TableNotCreatedException extends RuntimeException
+{
+    @Override
+    public String toString()
+    {
+        return "No such table found !";
+    }
+}
+
+class NameValuePair
+{
+    String name;
+    String value;
+    
+    NameValuePair(String name, String value)
+    {
+        this.name = name;
+        this.value = value;
+    }
+}
